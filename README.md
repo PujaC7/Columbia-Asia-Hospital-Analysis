@@ -57,12 +57,14 @@ A Power BI dashboard was developed to visualize the insights, featuring:
 #### Wait Time Impact: Correlation between waiting times and satisfaction levels.
 #### Discount Analysis: Effect of discounts on patient retention.
 
+## Main Tab
 <img width="1111" alt="Main" src="https://github.com/user-attachments/assets/77e9eff0-9248-4e1d-b2ab-20fdc7223f37" />
+
+## Doctor's Tab
 <img width="1111" alt="Doctor" src="https://github.com/user-attachments/assets/20bb6799-f3ff-43d5-b91f-6cc55b94c931" />
+
+## Patient's Tab
 <img width="1111" alt="Patient" src="https://github.com/user-attachments/assets/686e43b8-85a3-411e-b4d8-f8361347f1ce" />
-
-
-
 
 ## How to Use This Project
 Access the Power BI Dashboard
